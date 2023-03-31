@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/2a2e2098-e7af-4719-b9ba-911793293d5c/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/helloWorld103Sample",
+    "appService.deploySubpath": "."
+}
